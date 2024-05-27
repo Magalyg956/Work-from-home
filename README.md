@@ -95,11 +95,11 @@
 
         <section id="contact">
             <h2>Contact Information</h2>
-            <p>If you have any questions or need further assistance, please <a href="mailto:info@example.com">contact us</a>.</p>
+            <p>If you have any questions or need further assistance, please <a href="mailto:magalyg956@icloud.com">contact us</a>.</p>
         </section>
     </div>
     <footer>
-        <p>&copy; 2024 Your Name. All rights reserved.</p>
+        <p>&copy; 2024 Cindy M Torres. All rights reserved.</p>
     </footer>
 </body>
 </html>
